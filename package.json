@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "big-integer": "^1.6.32",
     "decimal.js": "^10.2.0"
   },
